@@ -1,0 +1,19 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+# React Native build output
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+android/app/debug.keystore
+android/local.properties
+ios/Pods/
+ios/build/
+
+# Local editor and OS files
+.DS_Store
+.idea/
+.vscode/
